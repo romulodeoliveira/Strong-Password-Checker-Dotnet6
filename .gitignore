@@ -1,0 +1,50 @@
+# Compiled output
+/bin/
+/obj/
+    
+# Local configuration files
+/.vscode/
+
+# User-specific files
+*.userprefs
+
+# NuGet Packages
+*.nuget.props
+*.nuget.targets
+
+# .NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET IDE
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.suo
+*.user
+*.suo
+
+# Language-specific settings
+*.rsuser
+*.sln.iml
+*.sln.ide-wal
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
